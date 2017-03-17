@@ -1,0 +1,5 @@
+ INFO 02-15 17:09:48(Launcher.java:23): 开始初始化core服务
+ INFO 02-15 17:09:55(AbstractApplicationContext.java:510): Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@181afa3: startup date [Wed Feb 15 17:09:55 CST 2017]; root of context hierarchy
+ INFO 02-15 17:09:57(XmlBeanDefinitionReader.java:317): Loading XML bean definitions from class path resource [application.xml]
+ INFO 02-15 17:10:05(XmlBeanDefinitionReader.java:317): Loading XML bean definitions from class path resource [spring-provider.xml]
+ INFO 02-15 17:10:06(?:?): using logger: com.alibaba.dubbo.common.logger.log4j.Log4jLoggerAdapter
